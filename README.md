@@ -1,5 +1,7 @@
 # Flight Delay Analysis Tool
 
+This is a project created as part of the Masterschool curriculum.
+
 ## Overview
 This Python project provides an interactive command-line tool for querying and analyzing flight delay data using SQLite. It enables users to:
 - Retrieve flight details by ID
@@ -59,3 +61,6 @@ pip install -r requirements.txt
 
 ## License
 This project is open-source and available for use.
+
+## Acknowledgments
+Special thanks to Masterschool for providing the guidance and resources for this project.
